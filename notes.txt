@@ -1,0 +1,5 @@
+https://en.wikipedia.org/wiki/MPEG_transport_stream
+https://download.tek.com/document/21W-15020-2.pdf
+
+https://www.atsc.org/atsc-documents/type/1-0-standards/
+https://www.atsc.org/wp-content/uploads/2021/04/A65_2013.pdf
